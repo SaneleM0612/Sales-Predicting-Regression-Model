@@ -12,7 +12,6 @@ Sales: The target variable representing sales figures.
 TV: Expenditure on TV advertising.
 Radio: Expenditure on radio advertising.
 Newspaper: Expenditure on newspaper advertising.
-The dataset contains information from a specified time period, capturing the relationship between marketing efforts and resulting sales.
 
 ## Methodology:
 
@@ -23,14 +22,6 @@ Assumptions: The analysis assumes a linear relationship between marketing expens
 
 Predictors: TV, radio, and newspaper expenditures were used as predictors for the regression model.
 Training and Testing: The dataset was divided into training and testing sets to evaluate model performance.
-
-## Model Summary:
-
-The regression model was built using the training data and evaluated based on various metrics.
-Coefficients were estimated for each predictor variable to quantify their impact on sales.
-Model significance and goodness-of-fit metrics, such as R-squared, were assessed to evaluate overall model performance.
-Results and Interpretation:
-
 
 ## Interpretation of Coefficients:
 
