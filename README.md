@@ -43,7 +43,7 @@ Training and Testing: The dataset was divided into training and testing sets to 
 
 &#10686; The coefficients provide insights into the relative impact of each advertising channel on sales. Among the three channels, radio advertising appears to have the largest impact on sales, with a coefficient of 0.1061, followed by TV advertising with a coefficient of 0.0537, and newspaper advertising with the smallest coefficient of 0.0054.
 
-&#10686;The high R-squared value suggests that the model effectively captures the variation in sales explained by the chosen predictors. However, it's important to consider other factors not included in the model that may also influence sales.
+&#10686;The high R-squared value suggests that the model effectively captures the variation in sales explained by the chosen predictors. 
 
 &#10686;The model's performance, as indicated by the low MSE, suggests that it is capable of making accurate predictions of sales based on advertising expenditures across TV, radio, and newspaper channels.
 
