@@ -48,3 +48,6 @@ Training and Testing: The dataset was divided into training and testing sets to 
 &#10686;The model's performance, as indicated by the low MSE, suggests that it is capable of making accurate predictions of sales based on advertising expenditures across TV, radio, and newspaper channels.
 
 These findings can inform marketing strategies, helping businesses allocate their advertising budgets more effectively to maximize sales.
+
+![output1](https://github.com/SaneleM0612/Sales-Predicting-Regression-Model/assets/148612772/00a648b5-1e9a-4a1f-9250-da1b06128e23)
+
