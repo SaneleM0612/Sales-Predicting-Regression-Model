@@ -50,4 +50,14 @@ Training and Testing: The dataset was divided into training and testing sets to 
 These findings can inform marketing strategies, helping businesses allocate their advertising budgets more effectively to maximize sales.
 
 ![output1](https://github.com/SaneleM0612/Sales-Predicting-Regression-Model/assets/148612772/00a648b5-1e9a-4a1f-9250-da1b06128e23)
+![output](https://github.com/SaneleM0612/Sales-Predicting-Regression-Model/assets/148612772/27039bd5-a78e-403f-a4c9-4f1a09ff8c4f)
+![output2](https://github.com/SaneleM0612/Sales-Predicting-Regression-Model/assets/148612772/dd8b9ef0-9422-4577-91a6-52b1c04c105e)
+![output3](https://github.com/SaneleM0612/Sales-Predicting-Regression-Model/assets/148612772/806eabb6-b35a-47b1-ab6e-7cddad7b0caa)
+![output4](https://github.com/SaneleM0612/Sales-Predicting-Regression-Model/assets/148612772/4d3de89b-6a94-4563-9c6f-9a7baa7013c4)
+![output5](https://github.com/SaneleM0612/Sales-Predicting-Regression-Model/assets/148612772/bcdfcc1d-7e7f-46db-8b1e-1f0b1b6ff7df)
+
+
+
+
+
 
