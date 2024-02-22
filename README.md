@@ -6,22 +6,26 @@ This report presents a regression analysis aimed at predicting sales based on ma
 Data Description:
 The dataset consists of records containing information on sales and marketing expenses across TV, radio, and newspaper channels.
 
-##Variables:
+## Variables:
+
 Sales: The target variable representing sales figures.
 TV: Expenditure on TV advertising.
 Radio: Expenditure on radio advertising.
 Newspaper: Expenditure on newspaper advertising.
 The dataset contains information from a specified time period, capturing the relationship between marketing efforts and resulting sales.
 
-##Methodology:
+## Methodology:
+
 Regression Analysis: A multiple linear regression approach was employed to model the relationship between sales and marketing expenditures across various channels.
 Assumptions: The analysis assumes a linear relationship between marketing expenses and sales, independence of observations, homoscedasticity, and normality of residuals.
 
-##Model Building:
+## Model Building:
+
 Predictors: TV, radio, and newspaper expenditures were used as predictors for the regression model.
 Training and Testing: The dataset was divided into training and testing sets to evaluate model performance.
 
-##Model Summary:
+## Model Summary:
+
 The regression model was built using the training data and evaluated based on various metrics.
 Coefficients were estimated for each predictor variable to quantify their impact on sales.
 Model significance and goodness-of-fit metrics, such as R-squared, were assessed to evaluate overall model performance.
