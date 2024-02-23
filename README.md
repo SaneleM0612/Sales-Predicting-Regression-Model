@@ -3,8 +3,6 @@
 ## Introduction:
 This report presents a regression analysis aimed at predicting sales based on marketing expenditures across TV, radio, and newspaper platforms. The objective is to understand the impact of each marketing channel on sales and to develop a predictive model for future sales forecasting.
 
-Data Description:
-The dataset consists of records containing information on sales and marketing expenses across TV, radio, and newspaper channels.
 
 ## Variables:
 
@@ -12,6 +10,9 @@ Sales: The target variable representing sales figures.
 TV: Expenditure on TV advertising.
 Radio: Expenditure on radio advertising.
 Newspaper: Expenditure on newspaper advertising.
+
+Data Description:
+The dataset consists of records containing information on sales and marketing expenses across TV, radio, and newspaper channels.
 
 ## Methodology:
 
